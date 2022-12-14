@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/homepage/homepage.style.scss"],"names":[],"mappings":"AAAA,UACI,YAAA,CACA,qBAAA,CACA,kBAAA,CACA,iBAAA","file":"6.12591791.chunk.css","sourcesContent":[".homepage {\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    padding: 20px 80px;\r\n  }\r\n  \r\n  \r\n  \r\n"]}
